@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "f13ef2d3e2ec4fca816fc1c27aa2c0a2"
+	name: "Piisceiss"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
